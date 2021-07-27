@@ -1,4 +1,4 @@
-package com.anoophp.gcpstackdriverlogging;
+package info.juliocnsouza.gcpstackdriverlogging;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -6,8 +6,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class GcpStackdriverLoggingApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
